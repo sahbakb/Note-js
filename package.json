@@ -1,0 +1,24 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahbakb/Note-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahbakb/Note-js/issues"
+  },
+  "homepage": "https://github.com/sahbakb/Note-js#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "node-fetch": "^2.6.1",
+    "yargs": "^17.6.2"
+  }
+}
